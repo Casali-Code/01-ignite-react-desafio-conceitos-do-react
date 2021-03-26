@@ -70,9 +70,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <h2 id="autor"> 🙋‍♂️ Autor </h2>
----
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/Casali-Code">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58091177?v=4" width="100px;" alt=""/>
  <br />
  <sub margin="0 auto"><b>Guilherme Casali</b></sub></a>
